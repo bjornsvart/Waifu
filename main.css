@@ -30,7 +30,7 @@ p{
 }
 
 .board{
-	width: 1000px;
+	width: auto;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
